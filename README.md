@@ -42,6 +42,5 @@ I am a fullstack software engineer from Bandung
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What You Need to Know in React 18](https://yosua-halim.medium.com/what-you-need-to-know-in-react-18-a7ce0d01bd3b?source=rss-76a1bbf0e19f------2)
 - [5 React Libraries that I Found Useful For the Last 2 Years](https://yosua-halim.medium.com/5-react-libraries-that-i-found-useful-for-all-my-projects-14456206dd15?source=rss-76a1bbf0e19f------2)
 <!-- BLOG-POST-LIST:END -->
