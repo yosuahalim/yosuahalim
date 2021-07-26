@@ -42,5 +42,6 @@ I am a fullstack software engineer from Bandung
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use useRef hook in React?](https://yosua-halim.medium.com/how-to-use-useref-hook-in-react-7b157d0267ad?source=rss-76a1bbf0e19f------2)
 - [5 React Libraries that I Found Useful For the Last 2 Years](https://yosua-halim.medium.com/5-react-libraries-that-i-found-useful-for-all-my-projects-14456206dd15?source=rss-76a1bbf0e19f------2)
 <!-- BLOG-POST-LIST:END -->
