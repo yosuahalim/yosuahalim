@@ -38,7 +38,12 @@ I am a fullstack software engineer from Bandung
 <img align="left" alt="react" src="https://img.shields.io/badge/express%20-%2320232a.svg?&style=for-the-badge&logo=express&logoColor=white" />
 
 <br>
+<br>
+
+## Dev Card
 <a href="https://app.daily.dev/iyosskoyos"><img src="https://api.daily.dev/devcards/0ee5fff9a85f426d9e8c3b7ed7f0bc6d.png?r=b8o" width="400" alt="Yosua's Dev Card"/></a>
+
+<br>
 <br>
 
 ## Blog posts
