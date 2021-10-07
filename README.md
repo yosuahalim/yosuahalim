@@ -41,7 +41,7 @@ I am a fullstack software engineer from Bandung
 <br>
 
 ## Dev Card
-<a href="https://app.daily.dev/iyosskoyos"><img src="https://api.daily.dev/devcards/0ee5fff9a85f426d9e8c3b7ed7f0bc6d.png?r=b8o" width="200" alt="Yosua's Dev Card"/></a>
+<a href="https://app.daily.dev/iyosskoyos"><img src="https://api.daily.dev/devcards/0ee5fff9a85f426d9e8c3b7ed7f0bc6d.png?r=b8o" width="300" alt="Yosua's Dev Card"/></a>
 
 <br>
 <br>
