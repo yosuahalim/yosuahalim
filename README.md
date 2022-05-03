@@ -48,8 +48,5 @@ I am a fullstack software engineer from Bandung
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [React Antipatterns you should know](https://yosua-halim.medium.com/react-antipatterns-you-should-know-dc2c7b7ce159?source=rss-76a1bbf0e19f------2)
-- [React with Typescript.. But should you?](https://blog.bitsrc.io/react-with-typescript-but-should-you-7807212cc6cb?source=rss-76a1bbf0e19f------2)
-- [How to use useRef hook in React?](https://yosua-halim.medium.com/how-to-use-useref-hook-in-react-7b157d0267ad?source=rss-76a1bbf0e19f------2)
-- [5 React Libraries that I Found Useful For the Last 2 Years](https://yosua-halim.medium.com/5-react-libraries-that-i-found-useful-for-all-my-projects-14456206dd15?source=rss-76a1bbf0e19f------2)
+- [10 React Anti-patterns you should know](https://yosua-halim.medium.com/10-react-anti-patterns-you-should-know-300256bfb007?source=rss-c781028b378b------2)
 <!-- BLOG-POST-LIST:END -->
