@@ -23,6 +23,10 @@ I am a fullstack software engineer from Bandung
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosuahalim&layout=compact&theme=radical&border_color=141E61)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosuahalim&show_icons=true&theme=radical&border_color=141E61)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yosuahalim&theme=radical&border=141E61)](https://git.io/streak-stats)
+
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yosuahalim)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://yosua-halim.medium.com/)
