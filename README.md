@@ -19,6 +19,7 @@ I am a fullstack software engineer from Bandung
 
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
+- 💬 Ask me about Software Development
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosuahalim&layout=compact&theme=radical&border_color=141E61)](https://github.com/anuraghazra/github-readme-stats)
