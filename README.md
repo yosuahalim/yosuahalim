@@ -55,6 +55,7 @@ I am a Fullstack Software Engineer from Bandung
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Clean Typescript Trick](https://yosua-halim.medium.com/clean-typescript-trick-f0be343edd5b?source=rss-c781028b378b------2)
 - [Optimize React Render using useMemo, useCallback, and React.memo](https://yosua-halim.medium.com/optimize-react-render-using-usememo-usecallback-and-react-memo-366524b97486?source=rss-c781028b378b------2)
 - [React with Typescript.. should you?](https://yosua-halim.medium.com/react-with-typescript-should-you-8228d1d8f0c6?source=rss-c781028b378b------2)
 - [React useRef in 3 minutes](https://yosua-halim.medium.com/react-useref-in-3-minutes-e21f7a57432b?source=rss-c781028b378b------2)
